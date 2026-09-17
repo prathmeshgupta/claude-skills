@@ -20,3 +20,5 @@ so they work on **any machine and on cloud/web**, not just one desktop.
 
 Install one plugin, several, or all — you don't have to carry every skill on every
 machine. Sources are credited in each skill's own SKILL.md.
+
+> **Note:** the `graphify` skill in `dev-workflow` needs the CLI first: `uv tool install graphifyy` (or `pipx install graphifyy`), then `graphify install`.

@@ -31,7 +31,7 @@
     {
       "name": "dev-workflow",
       "source": "./plugins/dev-workflow",
-      "description": "How you work, not what you build: laziest-senior-dev minimalism (ponytail), ADHD-friendly answers, architecture diagrams. (10 skills)"
+      "description": "How you work, not what you build: laziest-senior-dev minimalism (ponytail), ADHD-friendly answers, architecture diagrams, graphify code knowledge-graph. (11 skills)"
     }
   ]
 }
