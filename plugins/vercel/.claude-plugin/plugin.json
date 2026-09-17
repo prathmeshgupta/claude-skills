@@ -1,0 +1,9 @@
+{
+  "name": "vercel",
+  "description": "Deploy to and optimise Vercel (CLI, tokens, cost/perf).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Prathmesh Gupta",
+    "url": "https://github.com/prathmeshgupta"
+  }
+}

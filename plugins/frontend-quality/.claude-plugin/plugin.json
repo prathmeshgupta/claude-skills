@@ -1,0 +1,9 @@
+{
+  "name": "frontend-quality",
+  "description": "Front-end quality: the Front-End Checklist, performance, web-interface & writing guidelines, React patterns, rare UI.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Prathmesh Gupta",
+    "url": "https://github.com/prathmeshgupta"
+  }
+}

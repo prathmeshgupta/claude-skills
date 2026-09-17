@@ -1,0 +1,37 @@
+{
+  "name": "pratj-skills",
+  "owner": {
+    "name": "Prathmesh Gupta",
+    "url": "https://github.com/prathmeshgupta"
+  },
+  "metadata": {
+    "description": "Prathmesh's design/front-end/workflow skills for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "motion",
+      "source": "./plugins/motion",
+      "description": "Purposeful UI motion & animation \u2014 build, review, and vocabulary (Emil Kowalski / Apple-style). (12 skills)"
+    },
+    {
+      "name": "design-taste",
+      "source": "./plugins/design-taste",
+      "description": "Anti-slop visual design: taste, brand systems, redesigns, DESIGN.md brand library, and design-image direction. (14 skills)"
+    },
+    {
+      "name": "frontend-quality",
+      "source": "./plugins/frontend-quality",
+      "description": "Front-end quality: the Front-End Checklist, performance, web-interface & writing guidelines, React patterns, rare UI. (11 skills)"
+    },
+    {
+      "name": "vercel",
+      "source": "./plugins/vercel",
+      "description": "Deploy to and optimise Vercel (CLI, tokens, cost/perf). (3 skills)"
+    },
+    {
+      "name": "dev-workflow",
+      "source": "./plugins/dev-workflow",
+      "description": "How you work, not what you build: laziest-senior-dev minimalism (ponytail), ADHD-friendly answers, architecture diagrams. (10 skills)"
+    }
+  ]
+}
